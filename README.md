@@ -8,7 +8,7 @@
 
 <h2 align="center">Skills</h2>
 <p align="center">
-    <img src="https://www.vectorlogo.zone/logos/html5/html5-icon.svg" alt="HTML5" width="60" height="60">
+ <img width="48" height="48" src="https://img.icons8.com/color/48/figma--v1.png" alt="figma--v1">
     <img src="https://www.vectorlogo.zone/logos/css3/css3-icon.svg" alt="CSS3" width="60" height="60">
     <img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" alt="JavaScript" width="60" height="60">
     <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="60" height="60">
