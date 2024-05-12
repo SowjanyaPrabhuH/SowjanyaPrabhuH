@@ -9,9 +9,9 @@
 <h2 align="center">Skills</h2>
 <p align="center">
  <img width="48" height="48" src="https://img.icons8.com/color/48/figma--v1.png" alt="figma--v1">
-    <img src="https://www.vectorlogo.zone/logos/css3/css3-icon.svg" alt="CSS3" width="60" height="60">
-    <img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" alt="JavaScript" width="60" height="60">
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="60" height="60">
-    <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="Adobe Illustrator" width="60" height="60">
-    <img src="https://www.vectorlogo.zone/logos/adobe_xd/adobe_xd-icon.svg" alt="Adobe XD" width="60" height="60">
+  <img width="48" height="48" src="https://img.icons8.com/color/48/html-5--v1.png" alt="html-5--v1">
+ <img width="48" height="48" src="https://img.icons8.com/fluency/48/css3.png" alt="css3">
+  <img width="48" height="48" src="https://img.icons8.com/color/48/adobe-photoshop--v1.png" alt="adobe-photoshop--v1">
+  <img width="48" height="48" src="https://img.icons8.com/color/48/webflow.png" alt="webflow">
+ <script src="https://unpkg.com/@lottiefiles/lottie-player@latest/dist/lottie-player.js"></script><lottie-player src="https://lottie.host/fcde3978-44ce-43d5-a77c-5d909351d682/gcxRCcE1tA.json" background="##fff" speed="1" style="width: 300px; height: 300px" loop controls autoplay direction="1" mode="normal"></lottie-player>
 </p>
