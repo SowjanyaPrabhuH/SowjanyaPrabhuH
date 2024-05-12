@@ -13,5 +13,5 @@
  <img width="48" height="48" src="https://img.icons8.com/fluency/48/css3.png" alt="css3">
   <img width="48" height="48" src="https://img.icons8.com/color/48/adobe-photoshop--v1.png" alt="adobe-photoshop--v1">
   <img width="48" height="48" src="https://img.icons8.com/color/48/webflow.png" alt="webflow">
- <script src="https://unpkg.com/@lottiefiles/lottie-player@latest/dist/lottie-player.js"></script><lottie-player src="https://lottie.host/fcde3978-44ce-43d5-a77c-5d909351d682/gcxRCcE1tA.json" background="##fff" speed="1" style="width: 300px; height: 300px" loop controls autoplay direction="1" mode="normal"></lottie-player>
+ <img src="https://lottie.host/embed/fcde3978-44ce-43d5-a77c-5d909351d682/gcxRCcE1tA.json" >
 </p>
