@@ -11,6 +11,7 @@
  <img width="48" height="48" src="https://img.icons8.com/color/48/figma--v1.png" alt="figma--v1">
   <img width="48" height="48" src="https://img.icons8.com/color/48/html-5--v1.png" alt="html-5--v1">
  <img width="48" height="48" src="https://img.icons8.com/fluency/48/css3.png" alt="css3">
+  <img width="48" height="48" src="https://img.icons8.com/fluency/48/git.png" alt="css3">
   <img width="48" height="48" src="https://img.icons8.com/color/48/adobe-photoshop--v1.png" alt="adobe-photoshop--v1">
   <img width="48" height="48" src="https://img.icons8.com/color/48/webflow.png" alt="webflow">
 
